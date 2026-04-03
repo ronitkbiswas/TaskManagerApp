@@ -4,7 +4,7 @@ A simple and clean Task manager application built using React. This app allows u
 
 ---
 ## Live Link
-https://todoapp-liard-nu.vercel.app/
+https://taskmanager-ronitkbiswas.vercel.app/
 
 ## 🚀 Features
 

@@ -1,18 +1,94 @@
-# React + Vite
+# 📝 ToDo App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and clean ToDo application built using React. This app allows users to add, delete, and manage daily tasks efficiently.
 
-Currently, two official plugins are available:
+---
+## Live Link
+https://todoapp-liard-nu.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* Add new tasks
+* Delete tasks
+* Mark tasks as completed
+* Clean and responsive UI
+* Real-time updates using React state
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+* React (Functional Components)
+* JavaScript (ES6+)
+* CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 Concepts Used
+
+* useState (state management)
+* Event handling
+* Conditional rendering
+* Component-based architecture
+
+---
+
+## 📂 Project Structure
+
+src/
+├── App.js
+├── components/
+│   ├── TaskInput.js
+│   ├── TaskList.js
+│   └── TaskItem.js
+
+---
+
+## ▶️ Getting Started
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/todo-app.git
+```
+
+2. Navigate to the project folder
+
+```bash
+cd todo-app
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Run the app
+
+```bash
+npm start
+```
+
+---
+
+## 🎯 Purpose
+
+This project was built to understand the fundamentals of React such as state management, component structure, and handling user interactions.
+
+---
+
+## 📌 Future Improvements
+
+* Edit tasks
+* Add filters (completed / pending)
+* Save tasks using localStorage
+* Improve UI/UX
+
+---
+
+## 👨‍💻 Author
+
+Your Name
+
+---

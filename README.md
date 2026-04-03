@@ -42,35 +42,6 @@ src/
 │   ├── TaskList.js
 │   └── TaskItem.js
 
----
-
-## ▶️ Getting Started
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/todo-app.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd todo-app
-```
-
-3. Install dependencies
-
-```bash
-npm install
-```
-
-4. Run the app
-
-```bash
-npm start
-```
-
----
 
 ## 🎯 Purpose
 

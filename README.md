@@ -1,6 +1,6 @@
-# 📝 ToDo App (React)
+# 📝 Task Manager App (React)
 
-A simple and clean ToDo application built using React. This app allows users to add, delete, and manage daily tasks efficiently.
+A simple and clean Task manager application built using React. This app allows users to add, delete, and manage daily tasks efficiently.
 
 ---
 ## Live Link

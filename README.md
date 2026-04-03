@@ -89,6 +89,6 @@ This project was built to understand the fundamentals of React such as state man
 
 ## 👨‍💻 Author
 
-Your Name
+RONIT KUMAR BISWAS
 
 ---

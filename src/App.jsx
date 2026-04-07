@@ -56,7 +56,7 @@ export default function TaskManager() {
         <div style={styles.inputRow}>
           <input
             type="text"
-            placeholder="What's the next task?"
+            placeholder="Add a task..."
             value={input}
             onChange={(e) => setInput(e.target.value)}
             onKeyDown={(e) => e.key === "Enter" && addTask()}
@@ -101,12 +101,12 @@ export default function TaskManager() {
 
 const styles = {
   pageWrapper: {
-    minHeight: "50vh",
+    minHeight: "55vh",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
     background: "linear-gradient(135deg, #b9db3f 0%, #ffffff 100%)",
-    padding: "20px",
+    padding: "0px"
   },
   container: {
     width: "100%",
